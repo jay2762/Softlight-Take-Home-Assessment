@@ -1,0 +1,26 @@
+{
+  "name": "ai-multi-agent-ui-capture",
+  "version": "1.0.0",
+  "description": "AI multi-agent system for capturing UI workflows in web applications",
+  "main": "src/agent-b.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/agent-b.js",
+    "test": "node src/test.js",
+    "install-browsers": "npx playwright install chromium"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "screenshot",
+    "multi-agent"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.2.0",
+    "playwright": "^1.40.0"
+  }
+}
