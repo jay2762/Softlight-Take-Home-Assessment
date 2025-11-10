@@ -1,0 +1,13 @@
+[
+  {
+    "step": 1,
+    "label": "initial_page",
+    "filepath": "screenshots/workflow_1762703233641/step_001_initial_page.png",
+    "url": "https://trello.com/",
+    "timestamp": "2025-11-09T15:47:18.049Z",
+    "metadata": {
+      "task": "creating a new board in Trello",
+      "step": "initial"
+    }
+  }
+]

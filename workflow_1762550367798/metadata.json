@@ -1,0 +1,104 @@
+[
+  {
+    "step": 1,
+    "label": "initial_page",
+    "filepath": "screenshots/workflow_1762550367798/step_001_initial_page.png",
+    "url": "https://linear.app/",
+    "timestamp": "2025-11-07T21:19:31.855Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": "initial"
+    }
+  },
+  {
+    "step": 2,
+    "label": "modal_open",
+    "filepath": "screenshots/workflow_1762550367798/step_002_modal_open.png",
+    "url": "https://linear.app/",
+    "timestamp": "2025-11-07T21:20:32.910Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 1,
+      "action": "click",
+      "description": "Click the 'Sign up' button to proceed to login/registration."
+    }
+  },
+  {
+    "step": 3,
+    "label": "clicking_the_log_in_button_to_",
+    "filepath": "screenshots/workflow_1762550367798/step_003_clicking_the_log_in_button_to_.png",
+    "url": "https://linear.app/login",
+    "timestamp": "2025-11-07T21:20:55.456Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 2,
+      "action": "click",
+      "description": "Clicking the 'Log in' button to access the application."
+    }
+  },
+  {
+    "step": 4,
+    "label": "starting_the_login_process_by_",
+    "filepath": "screenshots/workflow_1762550367798/step_004_starting_the_login_process_by_.png",
+    "url": "https://linear.app/login",
+    "timestamp": "2025-11-07T21:21:05.705Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 3,
+      "action": "click",
+      "description": "Starting the login process by clicking 'Continue with Google'."
+    }
+  },
+  {
+    "step": 5,
+    "label": "initiate_login_process_by_clic",
+    "filepath": "screenshots/workflow_1762550367798/step_005_initiate_login_process_by_clic.png",
+    "url": "https://linear.app/login",
+    "timestamp": "2025-11-07T21:21:16.107Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 4,
+      "action": "click",
+      "description": "Initiate login process by clicking 'Continue with Google' button."
+    }
+  },
+  {
+    "step": 6,
+    "label": "click_continue_with_google_to_",
+    "filepath": "screenshots/workflow_1762550367798/step_006_click_continue_with_google_to_.png",
+    "url": "https://linear.app/login",
+    "timestamp": "2025-11-07T21:21:24.296Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 5,
+      "action": "click",
+      "description": "Click 'Continue with Google' to start the login process."
+    }
+  },
+  {
+    "step": 7,
+    "label": "enter_the_user_s_email_address",
+    "filepath": "screenshots/workflow_1762550367798/step_007_enter_the_user_s_email_address.png",
+    "url": "https://linear.app/login",
+    "timestamp": "2025-11-07T21:22:03.675Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 6,
+      "action": "fill",
+      "description": "Enter the user's email address to proceed with login/signup."
+    }
+  },
+  {
+    "step": 8,
+    "label": "entering_a_placeholder_email_a",
+    "filepath": "screenshots/workflow_1762550367798/step_008_entering_a_placeholder_email_a.png",
+    "url": "https://linear.app/login",
+    "timestamp": "2025-11-07T21:22:43.603Z",
+    "metadata": {
+      "task": "creating a project in Linear",
+      "step": 7,
+      "action": "fill",
+      "description": "Entering a placeholder email address to start the login process."
+    }
+  }
+]

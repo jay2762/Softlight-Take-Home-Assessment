@@ -1,0 +1,39 @@
+[
+  {
+    "step": 1,
+    "label": "initial_page",
+    "filepath": "screenshots/workflow_1762703661172/step_001_initial_page.png",
+    "url": "https://en.wikipedia.org/wiki/Main_Page",
+    "timestamp": "2025-11-09T15:54:24.652Z",
+    "metadata": {
+      "task": "open instagram",
+      "step": "initial"
+    }
+  },
+  {
+    "step": 2,
+    "label": "navigate_directly_to_the_insta",
+    "filepath": "screenshots/workflow_1762703661172/step_002_navigate_directly_to_the_insta.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:54:30.629Z",
+    "metadata": {
+      "task": "open instagram",
+      "step": 1,
+      "action": "navigate",
+      "description": "Navigate directly to the Instagram website to complete the task."
+    }
+  },
+  {
+    "step": 3,
+    "label": "successfully_reached_the_insta",
+    "filepath": "screenshots/workflow_1762703661172/step_003_successfully_reached_the_insta.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:54:48.574Z",
+    "metadata": {
+      "task": "open instagram",
+      "step": 2,
+      "action": "wait",
+      "description": "Successfully reached the Instagram landing page. Waiting for user input (username and password) to proceed with login, as opening the main feed requires authentication."
+    }
+  }
+]

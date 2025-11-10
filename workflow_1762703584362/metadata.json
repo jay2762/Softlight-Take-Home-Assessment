@@ -1,0 +1,78 @@
+[
+  {
+    "step": 1,
+    "label": "initial_page",
+    "filepath": "screenshots/workflow_1762703584362/step_001_initial_page.png",
+    "url": "https://en.wikipedia.org/wiki/Main_Page",
+    "timestamp": "2025-11-09T15:53:07.946Z",
+    "metadata": {
+      "task": "how to like a reel in instagram",
+      "step": "initial"
+    }
+  },
+  {
+    "step": 2,
+    "label": "navigate_to_instagram_to_begin",
+    "filepath": "screenshots/workflow_1762703584362/step_002_navigate_to_instagram_to_begin.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:53:15.553Z",
+    "metadata": {
+      "task": "how to like a reel in instagram",
+      "step": 1,
+      "action": "navigate",
+      "description": "Navigate to Instagram to begin the process of liking a reel."
+    }
+  },
+  {
+    "step": 3,
+    "label": "entering_a_placeholder_usernam",
+    "filepath": "screenshots/workflow_1762703584362/step_003_entering_a_placeholder_usernam.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:53:22.625Z",
+    "metadata": {
+      "task": "how to like a reel in instagram",
+      "step": 2,
+      "action": "fill",
+      "description": "Entering a placeholder username to proceed with the login flow."
+    }
+  },
+  {
+    "step": 4,
+    "label": "filling_form_fields",
+    "filepath": "screenshots/workflow_1762703584362/step_004_filling_form_fields.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:53:31.232Z",
+    "metadata": {
+      "task": "how to like a reel in instagram",
+      "step": 3,
+      "action": "fill",
+      "description": "Filling in the password field to log into Instagram."
+    }
+  },
+  {
+    "step": 5,
+    "label": "click_the_log_in_button_to_acc",
+    "filepath": "screenshots/workflow_1762703584362/step_005_click_the_log_in_button_to_acc.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:53:40.747Z",
+    "metadata": {
+      "task": "how to like a reel in instagram",
+      "step": 4,
+      "action": "click",
+      "description": "Click the Log in button to access Instagram."
+    }
+  },
+  {
+    "step": 6,
+    "label": "filling_form_fields",
+    "filepath": "screenshots/workflow_1762703584362/step_006_filling_form_fields.png",
+    "url": "https://www.instagram.com/",
+    "timestamp": "2025-11-09T15:53:53.868Z",
+    "metadata": {
+      "task": "how to like a reel in instagram",
+      "step": 5,
+      "action": "fill",
+      "description": "Fill in a placeholder username to attempt login."
+    }
+  }
+]
